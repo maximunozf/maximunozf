@@ -12,9 +12,6 @@ modelos de reconocimiento de imágenes, respondiendo por la consistencia de más
 
 Busco integrarme a un equipo de datos o inteligencia de negocios.
 
-Tecnologías
-SQL | Python | Power BI | DAX | MySQL | Excel
-
 Proyectos destacados
 - [portfolio-retail-financiero](https://github.com/maximunozf/portfolio-retail-financiero.git) — Modelo relacional MySQL + dashboard
   Power BI de indicadores financieros, ventas y riesgo crediticio (dataset propio,
