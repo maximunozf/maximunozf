@@ -2,7 +2,7 @@ Hola, soy Maximiliano 👋
 
 Analista Programador (INACAP) orientado al análisis de datos y la reportería de negocio.
 
-Trabajo con SQL, Python y Power BI para estructurar bases de datos relacionales,
+Trabajo con SQL, Python, Excel y Power BI para estructurar bases de datos relacionales,
 construir procesos de carga y validación, y traducir la operación en indicadores
 de venta y de cartera.
 
@@ -13,7 +13,7 @@ modelos de reconocimiento de imágenes, respondiendo por la consistencia de más
 Busco integrarme a un equipo de datos o inteligencia de negocios.
 
 Tecnologías
-SQL | Python | Power BI | DAX | MySQL
+SQL | Python | Power BI | DAX | MySQL | Excel
 
 Proyectos destacados
 - [portfolio-retail-financiero](https://github.com/maximunozf/portfolio-retail-financiero.git) — Modelo relacional MySQL + dashboard
