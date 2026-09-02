@@ -13,14 +13,16 @@ modelos de reconocimiento de imágenes, respondiendo por la consistencia de más
 Busco integrarme a un equipo de datos o inteligencia de negocios.
 
 Proyectos destacados
-- [portfolio-retail-financiero](https://github.com/maximunozf/portfolio-retail-financiero.git) — Modelo relacional MySQL + dashboard
+- [portfolio-retail-financiero](https://github.com/maximunozf/portfolio-retail-financiero) — Modelo relacional MySQL + dashboard
   Power BI de indicadores financieros, ventas y riesgo crediticio (dataset propio,
   limpieza intencional de datos)
-- análisis-riesgo-bancario-chile *(en construcción)* — Comparativo de riesgo
-  crediticio retail financiero vs. banca tradicional, con datos públicos de la CMF
+- [analisis-riesgo-bancario-chile](https://github.com/maximunozf/analisis-riesgo-bancario-chile) —
+  Riesgo crediticio de 5 bancos chilenos con **datos públicos reales de la CMF** (41 meses,
+  2.460 registros). Pipeline Python → MySQL → Power BI, con validación cruzada automatizada
+  de 28 métricas del dashboard contra el dato de origen.
 
 En preparación
 Certificación **Microsoft PL-300 (Power BI Data Analyst Associate)**
 
 Contacto
-[LinkedIn](https://www.linkedin.com/in/maximiliano-mu%C3%B1oz-fuentes/) · [Notion](https://atlantic-message-83c.notion.site/Maximiliano-Mu-oz-39df3c321fea807888aefa80ece9e316)
+[LinkedIn](https://www.linkedin.com/in/maximiliano-munoz-fuentes/) · [Notion](https://atlantic-message-83c.notion.site/Maximiliano-Mu-oz-39df3c321fea807888aefa80ece9e316)
