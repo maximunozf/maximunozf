@@ -11,11 +11,12 @@ muestra sea la correcta.
 
 - **[analisis-riesgo-bancario-chile](https://github.com/maximunozf/analisis-riesgo-bancario-chile)** —
   Riesgo crediticio de 5 bancos chilenos con **datos públicos reales de la CMF** (41 meses,
-  2.460 registros). Pipeline Python → MySQL → Power BI. Los dos grupos se movieron en
-  direcciones opuestas: la brecha de morosidad entre retail financiero y banca tradicional
-  se cerró de 3,17 a 2,01 pp, pero porque la banca se acercó al retail. Validé con un script
-  las **44 cifras** del dashboard contra su dato de origen y encontré 4 defectos que en
-  pantalla se veían bien.
+  2.460 registros). Pipeline Python → MySQL → Power BI. Morosidad y cobertura de provisiones
+  ordenan a los cinco bancos **casi al revés**: el más moroso (4,91%) es el mejor cubierto
+  (1,60) y el único que reforzó su cobertura, mientras uno de los menos morosos provisionó
+  bajo su propia cartera morosa en 25 de los 41 meses. Un ranking de riesgo construido sobre
+  una sola métrica prioriza mal. Validé con un script las **44 cifras** del dashboard contra
+  su dato de origen y encontré **4 defectos** que en pantalla se veían bien.
 
 - **[portfolio-retail-financiero](https://github.com/maximunozf/portfolio-retail-financiero)** —
   Modelo relacional en MySQL (6 tablas, 21.236 registros) y dashboard Power BI de ventas,
