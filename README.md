@@ -16,7 +16,7 @@ muestra sea la correcta.
   moroso (4,91%) es el mejor cubierto (1,60) y el único que reforzó su cobertura, mientras
   uno de los menos morosos provisionó bajo su propia cartera morosa en 25 de los 41 meses.
   Un ranking de riesgo construido sobre una sola métrica prioriza mal. Validé con un script
-  las **44 cifras** del dashboard contrasu dato de origen y encontré **4 defectos** que en
+  las **44 cifras** del dashboard contra su dato de origen y encontré **4 defectos** que en
   pantalla se veían bien.
 
 - **[portfolio-retail-financiero](https://github.com/maximunozf/portfolio-retail-financiero)** —
