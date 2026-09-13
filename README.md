@@ -31,10 +31,6 @@ Desarrollé una aplicación móvil en Flutter con integración de modelos de rec
 imágenes, respondiendo por la consistencia de más de 5.000 registros capturados y almacenados
 en la nube.
 
-### En preparación
-
-Certificación **Microsoft PL-300 (Power BI Data Analyst Associate)**
-
 ### Contacto
 
 [LinkedIn](https://www.linkedin.com/in/maximiliano-munoz-fuentes/) ·
